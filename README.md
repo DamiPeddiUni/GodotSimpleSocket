@@ -1,7 +1,7 @@
 # GodotSimpleSocket
 
 import the node module with 
-npm install websocket
+- `npm install websocket`
 
 start the server with
-node server.js
+- `node server.js`
